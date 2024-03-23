@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hello from Git mmm
+=======
+Hello from Git 
+
+gggg
+>>>>>>> 0c234c520489392df7928dc4a575c1884c3c7160
